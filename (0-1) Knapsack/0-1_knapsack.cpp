@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// knapsack algorithm
+
 int knapsack(int n, int s, int v[], int w[])
 {
     // base case: always depend on changing variables
